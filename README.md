@@ -10,4 +10,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-F5F5F4?style=for-the-badge&logo=docker&logoColor=C22F2F)
 
 
-Contact Me
+## Contact Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-F5F5F4?style=for-the-badge&logo=telegram&logoColor=C22F2F)](https://t.me/s0vyonok)
